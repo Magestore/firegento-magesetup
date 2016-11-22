@@ -143,7 +143,7 @@
                     <tax__calculation__shipping_includes_tax>1</tax__calculation__shipping_includes_tax>
                     <tax__calculation__apply_after_discount>1</tax__calculation__apply_after_discount>
                     <tax__calculation__discount_tax>1</tax__calculation__discount_tax>
-                    <tax__defaults__country>Việt Nam</tax__defaults__country>
+                    <tax__defaults__country>VN</tax__defaults__country>
                     <tax__defaults__region></tax__defaults__region>
                     <tax__defaults__postcode>100000</tax__defaults__postcode>
                     <tax__display__type>2</tax__display__type>
@@ -160,7 +160,7 @@
                     <tax__sales_display__grandtotal>0</tax__sales_display__grandtotal>
                     <tax__sales_display__full_summary>1</tax__sales_display__full_summary>
                     <tax__sales_display__zero_tax>1</tax__sales_display__zero_tax>
-                    <shipping__origin__country_id>Việt Nam</shipping__origin__country_id>
+                    <shipping__origin__country_id>VN</shipping__origin__country_id>
                     <shipping__origin__region_id></shipping__origin__region_id>
                     <shipping__origin__postcode>100000</shipping__origin__postcode>
                     <shipping__origin__city>Hà Nội</shipping__origin__city>
